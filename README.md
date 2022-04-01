@@ -35,4 +35,14 @@ In caso affermativo esibite un esempio e altrimenti dimostrate l’impossibilit�
 
 
 29/03
+- (Grafo delle antipatie) Bisogna formare dei gruppi di lavoro partizionando un insieme di n studenti i cui nomi vanno da 0 a n-1.
+I gruppi li forma il docente che ad  ogni studente da la possibilità' di segnalare un eventuale studente con cui  non ha nessuna intenzione di formare gruppo. Queste informazioni vengono codificate in una 
+lista L di n elementi dove L[i] e' lo studente segnalato da i (nel caso in cui lo studente  i non abbia segnalato nessuno e va d'accordo con tutti allora  L[i]=-1).
+
+Progettare un algoritmo di complessità' O(n)  che prende come parametro  la lista L e restituisce il numero minimo di gruppi che il docente e' costretto a formare per accontentare le richieste di tutti gli studenti. 
+Motivare la correttezza e la complessità' del vostro algoritmo e se possibile scrivetene il codice python.
+- Ripasso algoritmo dei ponti
+- Notebook "02_graphs_antipatie" e "03_ponti"
+
+05/04
 TBD
