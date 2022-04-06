@@ -45,4 +45,9 @@ Motivare la correttezza e la complessità' del vostro algoritmo e se possibile s
 - Notebook "02_graphs_antipatie" e "03_ponti"
 
 05/04
-TBD
+- Sia G = (V,E) un qualsiasi grafo orientato con pesi sugli archi, pesi che possono essere anche negativi ma in cui non sono presenti cicli di peso negativo.
+  * Dimostrare che l’algoritmo di Dijkstra su grafi di questo tipo non calcola necessariamente i cammini di costo minimo tra la sorgente e gli altri nodi del grafo.
+  * Per il calcolo dei cammini di costo minimo in G si suggerisce il seguente algoritmo: Sia M il costo minimo tra i costi degli archi di G. Modifichiamo i pesi degli archi di G sommando a ciascuno di questi l’intero |M| abbastanza grande da renderli tutti positivi. Al grafo che si ottiene G0 (che ha pesi positivi) applichiamo l’algoritmo di Dijkstra. I cammini minimi che vengono così calcolati sono anche cammini minimi per il grafo originale G? Motivare la risposta.
+  * E l'MST?
+ - Sia G un grafo non diretto, connesso e pesato. Dimostrare o confutare che un albero dei cammini minimi di G è anche un albero di copertura di peso minimo.
+ - Provare che qualora i pesi di G siano tutti distinti, allora T è l’unico minimo albero di copertura. Mostrare che che la condizione sul fatto che i pesi siano tutti distinti non è necessaria per l’unicità del minimo albero di copertura.
