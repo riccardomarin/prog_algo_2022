@@ -51,3 +51,9 @@ Motivare la correttezza e la complessità' del vostro algoritmo e se possibile s
   * E l'MST?
  - Sia G un grafo non diretto, connesso e pesato. Dimostrare o confutare che un albero dei cammini minimi di G è anche un albero di copertura di peso minimo.
  - Provare che qualora i pesi di G siano tutti distinti, allora T è l’unico minimo albero di copertura. Mostrare che che la condizione sul fatto che i pesi siano tutti distinti non è necessaria per l’unicità del minimo albero di copertura.
+
+12/04
+TBD
+
+19/04
+No Lezione (Pasqua)
