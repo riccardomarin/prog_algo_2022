@@ -53,7 +53,10 @@ Motivare la correttezza e la complessità' del vostro algoritmo e se possibile s
  - Provare che qualora i pesi di G siano tutti distinti, allora T è l’unico minimo albero di copertura. Mostrare che che la condizione sul fatto che i pesi siano tutti distinti non è necessaria per l’unicità del minimo albero di copertura.
 
 12/04
-TBD
+- Dati due insiemi S_A e S_B di interi positivi, entrambi composti da N elementi, ordinarli in due array A (array ordinato degli elementi di S_A) e B (array ordinato degli elementi di S_B) tali per cui sia massimizzata la produttoria: C = a_1^{b_1} * a_2^{b_2} * ... * a_N^{b_N}. Fornire algoritmo, complessità, e dimostrare correttezza
+- Dato un array di punti reali X = \[x_1, x_2, x_3, ...\] con x_1 <= x_2 <= x_3 <= ... <= x_n (ovvero, l'array è ordinato crescente), determinare il più piccolo insieme di segmenti chiusi (ovvero gli estremi sono compresi) di lunghezza unitaria che copre tutti i punti. Fornire algoritmo, complessità, e dimostrare correttezza
+- Esempio di problema senza sottostruttura ottimale: il massimo percorso semplice in un grafo
+- Problema di fornire un resto con un numero limitato di tagli di monete
 
 19/04
 No Lezione (Pasqua)
