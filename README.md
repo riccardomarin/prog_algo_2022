@@ -60,3 +60,15 @@ Motivare la correttezza e la complessità' del vostro algoritmo e se possibile s
 
 19/04
 No Lezione (Pasqua)
+
+26/04
+TBA
+
+5/05
+TBA
+
+10/05
+TBA
+
+17/05
+TBA
