@@ -62,7 +62,9 @@ Motivare la correttezza e la complessità' del vostro algoritmo e se possibile s
 No Lezione (Pasqua)
 
 26/04
-TBA
+- Soluzione al problema del resto di monete
+- Esercizi sul Master Theorem
+- Problema dei chip
 
 5/05
 TBA
